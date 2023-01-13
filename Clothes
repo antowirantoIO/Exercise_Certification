@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T03:24:56.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="cDrxnrBkFmwiJyHWhvO3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T03:55:30.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="3Yi7pHNok4L2MTUC1R_w" type="github" pages="2">
   <diagram id="reCKfVfCq39YwFgHjWxo" name="Page-1">
-    <mxGraphModel dx="1591" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,6 +31,9 @@
         <mxCell id="nqSiySMigx1FNKLWD295-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqSiySMigx1FNKLWD295-2" target="nqSiySMigx1FNKLWD295-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nqSiySMigx1FNKLWD295-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqSiySMigx1FNKLWD295-2" target="nqSiySMigx1FNKLWD295-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nqSiySMigx1FNKLWD295-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="30" width="30" height="60" as="geometry" />
         </mxCell>
@@ -47,6 +50,9 @@
           <mxGeometry x="650" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nqSiySMigx1FNKLWD295-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nqSiySMigx1FNKLWD295-6" target="nqSiySMigx1FNKLWD295-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSiySMigx1FNKLWD295-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nqSiySMigx1FNKLWD295-6" target="nqSiySMigx1FNKLWD295-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nqSiySMigx1FNKLWD295-6" value="Pemilik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
@@ -72,6 +78,35 @@
         </mxCell>
         <mxCell id="nqSiySMigx1FNKLWD295-19" value="Input data karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="-90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nqSiySMigx1FNKLWD295-29" value="Generate Laporan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-180" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jP5LJ65Xcs41Gq6nHWpg" name="Page-2">
+    <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oA59BRRx2HJey1V9cXO1-1" value="Karyawan" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oA59BRRx2HJey1V9cXO1-2" value="Pelanggan" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oA59BRRx2HJey1V9cXO1-3" value="Transaksi" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T19DQfyAjqb35mQOZRSi-1" value="Status Order" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T19DQfyAjqb35mQOZRSi-2" value="Paket" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T19DQfyAjqb35mQOZRSi-3" value="Tipe Bayar" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
