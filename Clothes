@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T04:06:52.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="PfZEzPjXjiU7Mj_CtY3M" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-13T04:11:25.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="Us-tpG0sHdbGyMM0VO3o" type="github" pages="2">
   <diagram id="reCKfVfCq39YwFgHjWxo" name="Page-1">
     <mxGraphModel dx="1311" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oA59BRRx2HJey1V9cXO1-2" value="Pelanggan" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="192.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="410" y="192.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-fldj4FCLhpdvLHLPHn1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oA59BRRx2HJey1V9cXO1-3" target="-fldj4FCLhpdvLHLPHn1-18">
           <mxGeometry relative="1" as="geometry" />
